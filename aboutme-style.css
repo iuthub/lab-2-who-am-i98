@@ -6,10 +6,6 @@ h2, h3 {
 }
 a {
     color: red;
-    text-decoration: none;
-}
-p:first-letter {
-    font-size: 1.5em;
 }
 p, li {
     color: white;
