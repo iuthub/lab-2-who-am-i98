@@ -1,0 +1,21 @@
+.abtme {
+    color: yellow;
+}
+h2, h3 {
+    color: #6666ff;
+}
+a {
+    color: red;
+}
+p, li {
+    color: white;
+}
+body {
+    background-color: #404040;
+}
+div#images {
+    display: inline-flex;
+}
+div#happy {
+    padding-right: 10px;
+}
